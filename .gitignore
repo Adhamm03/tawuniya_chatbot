@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.DS_Store
+__MACOSX/
+splitted_chunks/__MACOSX/
