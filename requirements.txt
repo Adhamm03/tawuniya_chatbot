@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+openai
+sentence-transformers
+faiss-cpu
+rank-bm25
+numpy
